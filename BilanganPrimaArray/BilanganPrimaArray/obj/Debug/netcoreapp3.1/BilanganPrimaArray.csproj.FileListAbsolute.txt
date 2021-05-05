@@ -1,0 +1,13 @@
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\bin\Debug\netcoreapp3.1\BilanganPrimaArray.exe
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\bin\Debug\netcoreapp3.1\BilanganPrimaArray.deps.json
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\bin\Debug\netcoreapp3.1\BilanganPrimaArray.runtimeconfig.json
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\bin\Debug\netcoreapp3.1\BilanganPrimaArray.runtimeconfig.dev.json
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\bin\Debug\netcoreapp3.1\BilanganPrimaArray.dll
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\bin\Debug\netcoreapp3.1\BilanganPrimaArray.pdb
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\obj\Debug\netcoreapp3.1\BilanganPrimaArray.csprojAssemblyReference.cache
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\obj\Debug\netcoreapp3.1\BilanganPrimaArray.AssemblyInfoInputs.cache
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\obj\Debug\netcoreapp3.1\BilanganPrimaArray.AssemblyInfo.cs
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\obj\Debug\netcoreapp3.1\BilanganPrimaArray.csproj.CoreCompileInputs.cache
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\obj\Debug\netcoreapp3.1\BilanganPrimaArray.dll
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\obj\Debug\netcoreapp3.1\BilanganPrimaArray.pdb
+C:\Users\nuril\source\repos\Tugas PBO\BilanganPrimaArray\BilanganPrimaArray\obj\Debug\netcoreapp3.1\BilanganPrimaArray.genruntimeconfig.cache

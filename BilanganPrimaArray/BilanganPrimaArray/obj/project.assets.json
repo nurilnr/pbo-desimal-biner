@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuril\\source\\repos\\Tugas PBO\\KonvensiDesimalKeBiner\\KonvensiDesimalKeBiner\\KonvensiDesimalKeBiner.csproj",
-      "projectName": "KonvensiDesimalKeBiner",
-      "projectPath": "C:\\Users\\nuril\\source\\repos\\Tugas PBO\\KonvensiDesimalKeBiner\\KonvensiDesimalKeBiner\\KonvensiDesimalKeBiner.csproj",
+      "projectUniqueName": "C:\\Users\\nuril\\source\\repos\\Tugas PBO\\BilanganPrimaArray\\BilanganPrimaArray\\BilanganPrimaArray.csproj",
+      "projectName": "BilanganPrimaArray",
+      "projectPath": "C:\\Users\\nuril\\source\\repos\\Tugas PBO\\BilanganPrimaArray\\BilanganPrimaArray\\BilanganPrimaArray.csproj",
       "packagesPath": "C:\\Users\\nuril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuril\\source\\repos\\Tugas PBO\\KonvensiDesimalKeBiner\\KonvensiDesimalKeBiner\\obj\\",
+      "outputPath": "C:\\Users\\nuril\\source\\repos\\Tugas PBO\\BilanganPrimaArray\\BilanganPrimaArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nuril\\AppData\\Roaming\\NuGet\\NuGet.Config",
