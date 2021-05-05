@@ -12,6 +12,10 @@ namespace BilanganPrimaArray
 
 			int bilangan = int.Parse(Console.ReadLine());
 
+			int[] arr = new int[9999];
+
+			int counter = 0;
+
 			Console.WriteLine("Bilangan Primanya adalah: ");
 
 			if (bilangan >= 2)
@@ -28,8 +32,16 @@ namespace BilanganPrimaArray
 					}
 
 					if (prima)
-						Console.Write(i + " ");
+					{
+						arr[counter] = i;
+						counter++;
+					}
 					prima = true;
+				}
+				Console.Write("AAAAAAAAAAA"+counter);
+				for (int i = 0; i < counter; i++)
+				{
+					Console.Write(arr[i] + " ");
 				}
 			}
 			else
