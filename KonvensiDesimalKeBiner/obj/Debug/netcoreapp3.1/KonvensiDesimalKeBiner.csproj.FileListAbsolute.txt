@@ -1,0 +1,13 @@
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\bin\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.exe
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\bin\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.deps.json
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\bin\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.runtimeconfig.json
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\bin\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.runtimeconfig.dev.json
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\bin\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.dll
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\bin\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.pdb
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\obj\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.csprojAssemblyReference.cache
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\obj\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.AssemblyInfoInputs.cache
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\obj\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.AssemblyInfo.cs
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\obj\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.csproj.CoreCompileInputs.cache
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\obj\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.dll
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\obj\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.pdb
+C:\Users\nuril\source\repos\KonvensiDesimalKeBiner\KonvensiDesimalKeBiner\obj\Debug\netcoreapp3.1\KonvensiDesimalKeBiner.genruntimeconfig.cache
