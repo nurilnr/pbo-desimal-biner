@@ -1,0 +1,13 @@
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\obj\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.csprojAssemblyReference.cache
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\obj\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.AssemblyInfoInputs.cache
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\obj\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.AssemblyInfo.cs
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\obj\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.csproj.CoreCompileInputs.cache
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\bin\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.exe
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\bin\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.deps.json
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\bin\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.runtimeconfig.json
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\bin\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.runtimeconfig.dev.json
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\bin\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.dll
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\bin\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.pdb
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\obj\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.dll
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\obj\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.pdb
+C:\Users\nuril\source\repos\Tugas PBO\BilanganFibonacciKonsepArray\BilanganFibonacciKonsepArray\obj\Debug\netcoreapp3.1\BilanganFibonacciKonsepArray.genruntimeconfig.cache
