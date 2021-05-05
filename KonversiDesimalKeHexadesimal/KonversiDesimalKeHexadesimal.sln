@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonversiDesimalKeHexadesimal", "KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal.csproj", "{A2F9487B-7ED0-46A5-88AE-0C22F46A7342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F9487B-7ED0-46A5-88AE-0C22F46A7342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F9487B-7ED0-46A5-88AE-0C22F46A7342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F9487B-7ED0-46A5-88AE-0C22F46A7342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F9487B-7ED0-46A5-88AE-0C22F46A7342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B6FED14-858B-4D76-819A-3026955FBEDF}
+	EndGlobalSection
+EndGlobal

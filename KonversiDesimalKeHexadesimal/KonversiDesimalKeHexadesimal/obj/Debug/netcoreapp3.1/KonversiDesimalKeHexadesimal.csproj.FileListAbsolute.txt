@@ -1,0 +1,13 @@
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\bin\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.exe
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\bin\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.deps.json
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\bin\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.runtimeconfig.json
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\bin\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.runtimeconfig.dev.json
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\bin\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.dll
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\bin\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.pdb
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\obj\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.csprojAssemblyReference.cache
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\obj\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.AssemblyInfoInputs.cache
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\obj\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.AssemblyInfo.cs
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\obj\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.csproj.CoreCompileInputs.cache
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\obj\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.dll
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\obj\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.pdb
+C:\Users\nuril\source\repos\KonversiDesimalKeHexadesimal\KonversiDesimalKeHexadesimal\obj\Debug\netcoreapp3.1\KonversiDesimalKeHexadesimal.genruntimeconfig.cache
