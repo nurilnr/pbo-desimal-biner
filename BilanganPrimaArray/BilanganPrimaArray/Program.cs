@@ -38,7 +38,7 @@ namespace BilanganPrimaArray
 					}
 					prima = true;
 				}
-				Console.Write("AAAAAAAAAAA"+counter);
+
 				for (int i = 0; i < counter; i++)
 				{
 					Console.Write(arr[i] + " ");
